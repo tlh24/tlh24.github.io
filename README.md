@@ -1,2 +1,2 @@
-# tlh24.github.io
-GluSnFR analysis
+# glusnfr-analysis
+GluSnFR3 mutation analyisis tool
